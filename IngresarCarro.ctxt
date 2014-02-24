@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=IngresarCarro()
+comment0.text=\r\n\ El\ constructor\ se\ encarga\ de\ crear\ todos\ los\ botones\ y\ de\ posicionarlos\ en\ la\ posicion\ deseada.\r\n
+comment1.params=event
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment1.text=\r\n\ Encargado\ de\ recibir\ y\ hacer\ las\ ordenes\ que\ hace\ el\ usuario\ al\ seleccionar\ un\ boton.\r\n
+comment2.params=
+comment2.target=void\ limpiar()
+comment2.text=\r\n\ Cambiar\ es\ el\ encargado\ de\ borrar\ los\ datos\ de\ los\ textFields.\r\n
+comment3.params=
+comment3.target=void\ guardar()
+comment3.text=\r\n\ Guardar\ es\ el\ encargado\ de\ salvar\ los\ cambios\ en\ los\ datos\ del\ sistema.\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=\r\n\ El\ main\ es\ el\ encargado\ de\ iniciar\ la\ ejecucion\ del\ sistema.\r\n
+numComments=5

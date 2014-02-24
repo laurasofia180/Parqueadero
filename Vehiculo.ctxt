@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=nombre\ identificacion\ matricula\ tipoDeVehiculo\ horaLlegada\ horaSalida
+comment0.target=Vehiculo(java.lang.String,\ int,\ java.lang.String,\ int,\ int,\ int)
+comment0.text=\r\n\ El\ constructor\ de\ vehiculo\ se\ encarga\ de\ recibir\ los\ datos\ tanto\ del\ cliente\ como\ del\ vehiculo\ e\ imprime\ su\ respectivo\ tiquete.\r\n
+comment1.params=
+comment1.target=int\ getHoraDeSalida()
+comment1.text=\r\n\ Encargado\ de\ dar\ la\ hora\ de\ salida.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getUbicacion()
+comment2.text=\r\n\ Encargado\ de\ dar\ la\ ubicacion\ del\ vehiculo\ en\ la\ torre.\r\n
+comment3.params=
+comment3.target=int\ getAscii()
+comment3.text=\r\n\ Encargado\ de\ dar\ el\ valor\ numerico\ de\ la\ primera\ letra\ de\ la\ matricula\ para\ ubicar\ el\ piso\ de\ altura.\r\n
+comment4.params=
+comment4.target=int\ getLastMatricula()
+comment4.text=\r\n\ Encargado\ de\ dar\ el\ valor\ numerico\ del\ ultimo\ numero\ de\ la\ matricula\ para\ ubicar\ el\ piso.\r\n
+comment5.params=
+comment5.target=java.lang.String\ getMatricula()
+comment5.text=\r\n\ Encargado\ de\ dar\ la\ matricula\ de\ vehiculo.\r\n
+comment6.params=
+comment6.target=int\ getTipoDeVehiculo()
+comment6.text=\r\n\ Encargado\ de\ dar\ el\ tipo\ de\ vehiculo\ del\ cliente.\r\n
+comment7.params=multa
+comment7.target=void\ setMulta(boolean)
+comment7.text=\r\n\ Encargado\ de\ poner\ la\ multa\ al\ vehiculo\ del\ cliente.\r\n
+numComments=8

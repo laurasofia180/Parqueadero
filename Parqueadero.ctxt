@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Parqueadero()
+comment0.text=\r\n\ Este\ es\ el\ constructor\ de\ parqueadero,\ en\ este\ se\ crean\ el\ edificio\ con\ las\ medidas\ de\ 26\ pisos\ de\ altura,\ 10\ niveles\ por\ piso\ y\ 24\ celdas\ de\ profundidad,\ ademas\ se\ construye\ el\ sotano\ con\ 100\ posiciones\ disponibles\ y\ por\ ultimo\ se\ crea\ la\ calle.\r\n
+comment1.params=carro
+comment1.target=void\ addVehiculo(Vehiculo)
+comment1.text=\r\n\ Este\ es\ el\ metodo\ agregar\ vehiculo,\ encargado\ de\ controlar\ la\ "grua"\ que\ ingresara\ los\ carros\ al\ edificio,\ en\ este\ se\ encuentra\ tambien\ la\ organizacion\ por\ hora\ de\ salida.\r\n
+comment2.params=matricula
+comment2.target=void\ retirarVehiculo(java.lang.String)
+comment2.text=\r\n\ Este\ es\ el\ metodo\ retirar\ vehiculo,\ encargado\ de\ controlar\ la\ "grua"\ que\ retirara\ los\ carros\ al\ edificio.\r\n
+comment3.params=hora
+comment3.target=void\ salida23Horas(Tiempo)
+comment3.text=\r\n\ Este\ es\ el\ metodo\ sacar\ vehiculos\ luego\ de\ las\ 23\:59,\ encargado\ de\ revisar\ el\ tiempo\ y\ sacar\ los\ carros\ del\ edificio\ ademas\ de\ ponerles\ las\ multas\ respectivas.\r\n
+comment4.params=
+comment4.target=void\ informacionDelAt()
+comment4.text=\r\n\ Este\ metodo\ le\ da\ la\ informacion\ al\ que\ maneja\ el\ sistema\ frente\ a\ cuantas\ celdas\ quedan\ disponibles,\ cuantos\ carros\ hay\ en\ el\ edificio\ y\ cual\ es\ el\ proximo\ carro\ a\ salir.\r\n
+numComments=5

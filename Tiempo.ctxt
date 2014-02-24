@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=hora
+comment0.target=Tiempo(int)
+comment0.text=\r\n\ Este\ es\ el\ constructor\ de\ tiempo,\ es\ el\ encargado\ de\ recibir\ la\ hora\ inicial\ del\ sistema\ y\ hacer\ la\ comprobacion\ de\ que\ sea\ una\ hora\ valida,\ se\ divide\ la\ hora\ en\ horas\ y\ minutos\ para\ facil\ manejo.\r\n
+comment1.params=laHora
+comment1.target=void\ cambiarTiempo(int)
+comment1.text=\r\n\ Este\ el\ metodo\ encargado\ de\ cambiar\ la\ hora\ del\ sistema,\ hace\ la\ comprobacion\ de\ cambio\ del\ tiempo\ a\ futuro\ y\ tambien\ que\ sea\ una\ hora\ valida.\r\n
+comment2.params=
+comment2.target=int\ getHora()
+comment2.text=\r\n\ Encargado\ de\ dar\ la\ hora.\r\n
+comment3.params=
+comment3.target=int\ getMinuto()
+comment3.text=\r\n\ Encargado\ de\ dar\ los\ minutos.\r\n
+numComments=4

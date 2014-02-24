@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RetirarVehiculo()
+comment0.text=\r\n\ El\ constructor\ se\ encarga\ de\ crear\ todos\ los\ botones\ y\ de\ posicionarlos\ en\ la\ posicion\ deseada.\r\n
+comment1.params=event
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment1.text=\r\n\ Encargado\ de\ recibir\ y\ hacer\ las\ ordenes\ que\ hace\ el\ usuario\ al\ seleccionar\ un\ boton.\r\n
+comment2.params=
+comment2.target=void\ cancelar()
+comment2.text=\r\n\ Cancelar\ es\ el\ encargado\ de\ suspender\ los\ procesos\ del\ sistema.\r\n
+comment3.params=
+comment3.target=void\ retirar()
+comment3.text=\r\n\ Retirar\ es\ el\ encargado\ de\ sacar\ el\ vehiculo\ de\ la\ torre.\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=\r\n\ El\ main\ es\ el\ encargado\ de\ iniciar\ la\ ejecucion\ del\ sistema.\r\n
+numComments=5
